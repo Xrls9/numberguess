@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NumberGuess2</string>
+    <string name="statistics.menu_title">Statistics</string>
+    <string name="title.numberguess">VAMOS A ADIVINAR NÚMEROS</string>
+    <string name="btn.start">Start</string>
+    <string name="label.guess">Adivinar un numero:</string>
+    <string name="btn.do.guess">Adivina!</string>
+    <string name="edit.number">Number</string>
+    <string name="status.start.info">Presiona START para iniciar un juego</string>
+    <string name="label.log">Log:</string>
+    <string name="guess.hint">Adivina un numero entre %1$d y %2$d</string>
+    <string name="status.too.low">Lo siento, demasiado bajo.</string>
+    <string name="status.too.high">Lo siento, demasiado Alto..</string>
+    <string name="status.hit">Adivinaste despues de %1$d intentos!Presiona START para un nuevo juego.</string>
+</resources>
